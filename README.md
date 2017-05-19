@@ -1,5 +1,6 @@
-# cybertraders
+# Cybertraders
 
+## Backtest from scratch
 The ipython notebook containing the backtest will only work in the Quantopian research environment as it needs asset prices!
 
 This is a vectorised backtest and optimisation that looks at a moving average crossover strategy. If run over a wide range 
